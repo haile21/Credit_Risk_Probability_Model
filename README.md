@@ -1,5 +1,5 @@
 # B5W5: Credit Risk Probability Model for Alternative Data
----
+
 ## Project Summary
 This project presents an end-to-end implementation of a credit risk scoring model using alternative transactional data from an eCommerce platform. The goal is to support Bati Bank’s buy-now-pay-later service by predicting a customer's likelihood of default, assigning a credit score, and recommending optimal loan terms.
 
