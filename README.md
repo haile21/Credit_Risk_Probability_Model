@@ -34,5 +34,5 @@ Bati Bank seeks to offer credit products to customers without traditional credit
 - Trained model with performance metrics
 - FastAPI endpoint for live scoring
 - MLflow-tracked experiments and model registry
-- README with business context and project overview
+ 
  
